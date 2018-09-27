@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+IDK MAN THIS IS CONFUSING
 
 ## What it does
 
-FEATURES PLACEHOLDER
+[] This
+[] That
+[] Other stuff
 
 ## Getting started
 
